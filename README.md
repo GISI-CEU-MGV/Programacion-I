@@ -1,43 +1,59 @@
-# Repositorio de Trabajo de la Asignatura Programación-I  
+# 🚀 Repositorio de Trabajo de Programación-I  
 ### Curso 2024/2025 - Grado de Ingeniería de Sistemas de Información  
 **Universidad CEU San Pablo**
 
-Este repositorio contiene los trabajos realizados a lo largo del curso de **Programación-I**. Los ejercicios y proyectos están organizados de la siguiente manera:
+![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-blue)  
+![Java](https://img.shields.io/badge/Lenguaje-Java-red)  
+![Licencia](https://img.shields.io/badge/Licencia-Apache%202.0-green)  
 
-## Estructura del Repositorio
+---
+
+## 📋 Tabla de Contenidos  
+1. [Estructura del Repositorio](#estructura-del-repositorio)  
+2. [Proyectos Destacados](#proyectos-destacados)  
+3. [Ejemplo de Funcionamiento](#ejemplo-de-funcionamiento)  
+4. [Tecnologías Utilizadas](#tecnologías-utilizadas)  
+5. [Contacto](#contacto)  
+
+---
+
+## Estructura del Repositorio  
 - **Directorios por Entrega Semanal**:  
-  Cada semana se entrega una carpeta con los ejercicios realizados. En cada carpeta encontrarás:  
+  Cada semana se entrega una carpeta con:  
   - Código fuente documentado con **Javadoc**.  
-  - Un archivo `README` que explica la entrega correspondiente.  
+  - Un archivo `README` explicando la entrega correspondiente.  
 
 - **Práctica Final**:  
-  Una entrega que reúne y aplica todos los conocimientos adquiridos durante el curso.
+  Aplicación de todos los conceptos aprendidos durante el curso.
 
-## Proyectos Destacados
-### 1. **Padrón de Habitantes**  
-Aplicación que gestiona un padrón de habitantes. Funcionalidades principales:
-- Añadir nuevos habitantes al padrón.  
-- Visualizar la lista de habitantes de manera clara y organizada.  
-- Modificar y eliminar habitantes.  
-- Obtener ayuda sobre los comandos disponibles.
+---
 
-### 2. **Agenda de Contactos**  
-Aplicación que funciona como una libreta de contactos con una interfaz de usuario intuitiva. Funcionalidades principales:
-- Añadir y mostrar contactos.  
-- Eliminar contactos.  
-- Mostrar ayuda sobre los comandos disponibles.
+## Proyectos Destacados  
+### 📌 **Padrón de Habitantes**  
+Gestión del padrón de habitantes con funcionalidades como:  
+- Añadir, modificar y eliminar habitantes.  
+- Visualizar la lista de manera organizada.  
+- Ayuda interactiva con comandos.
 
-## Tecnologías Utilizadas
-- **Lenguaje de Programación**: Java  
-- **Entorno de Desarrollo**: IntelliJ IDEA Ultimate  
+### 📌 **Agenda de Contactos**  
+Libreta de contactos con interfaz amigable. Funcionalidades:  
+- Añadir y eliminar contactos.
+- Añadir a favoritos un contacto  
+- Ayuda sobre comandos disponibles.
+
+---
+
+## Tecnologías Utilizadas  
+- **Lenguaje**: Java  
+- **Entorno**: IntelliJ IDEA Ultimate  
 - **Control de Versiones**: Git  
 - **Repositorio Remoto**: GitHub  
-- **Licencia**: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-## Contacto
-Para cualquier información adicional, dudas o sugerencias, puedes contactarme en:  
+---
+
+## 📞 Contacto  
 📧 Email: [miguelgonzalovazquez04@gmail.com](mailto:miguelgonzalovazquez04@gmail.com)  
-🌐 LinkedIn: [Miguel Gonzalo Vázquez](https://www.linkedin.com/)
+🌐 LinkedIn: [Miguel Gonzalo Vázquez]([https://www.linkedin.com/](https://www.linkedin.com/in/miguel-gonzalo-vazquez/))
 
 ---
 
