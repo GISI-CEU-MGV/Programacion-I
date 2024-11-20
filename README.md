@@ -43,13 +43,14 @@ Libreta de contactos con interfaz amigable. Funcionalidades:
 
 ---
 
-## Tecnologías Utilizadas  
-- **Lenguaje**: Java  
-- **Entorno**: IntelliJ IDEA Ultimate  
-- **Control de Versiones**: Git  
-- **Repositorio Remoto**: GitHub  
-
----
+<h2 align="center" style="color: #4CAF50;">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
+<br/>
+<div align="center">
+    <a href="https://i.pinimg.com/736x/ce/02/a7/ce02a74229e7e123237bba6dd8aa09b7.jpg" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java,idea,git,github,notion" />
+    </a>
+</div>
+<br/>
 
 ## 📞 Contacto  
 📧 Email: [miguelgonzalovazquez04@gmail.com](mailto:miguelgonzalovazquez04@gmail.com)  
